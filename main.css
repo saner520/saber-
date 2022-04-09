@@ -186,7 +186,9 @@ body {
     color: #ffffff;
     box-shadow: 0px 0px 12px #ffffff;
     transition: all 0.5s;
-
+}
+.xiaomo{
+    text-decoration: none;
 }
 
 .lihui{
